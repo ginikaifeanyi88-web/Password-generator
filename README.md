@@ -32,3 +32,5 @@ private static string createAWeakPassword()
             return passwordString;
         }
 ```
+
+Also learned how to use the  CrypticWizard.RandomWordGenerator external library to generate random words.
