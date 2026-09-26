@@ -1,7 +1,8 @@
 # Password generator
+Simple C# console app that generates a weak password and a stronger password.
 
 ## Overview
-Simple C# console app that generates a weak password and a stronger password.
+The simple console app uses two functions to create both a weak and strong password for the user if they enter the word "generate" to the console. They can exit by pressing "exit" anytime. 
 
 ## What I learned
 
