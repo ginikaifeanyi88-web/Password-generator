@@ -5,7 +5,7 @@ Simple C# console app that generates a weak password and a stronger password.
 
 ## What I learned
 
-I learned that to change string characters on their indexes they first need to be converted to the StringBuilder class
+I learned that to change characters in strings on their specific indexes, they must first need to be converted to the built-in StringBuilder class.
 ```c#
 private static string createAWeakPassword()
         {
